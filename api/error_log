@@ -1,0 +1,4 @@
+[24-Jan-2015 07:10:31 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/rahil471/public_html/demo/phpapi/api/routes/site.php on line 22
+[16-May-2015 11:18:43 UTC] PHP Fatal error:  Cannot access protected property Slim\Slim::$request in /home/rahil471/public_html/demo/phpapi/api/routes/site.php on line 64
+[16-May-2015 11:20:32 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/rahil471/public_html/demo/phpapi/api/routes/site.php on line 68
+[18-May-2015 02:08:07 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/rahil471/public_html/demo/phpapi/api/routes/site.php on line 22
